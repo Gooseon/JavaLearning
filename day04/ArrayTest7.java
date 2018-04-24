@@ -11,7 +11,7 @@ class ArrayTest7
 	}
 
 	/*
-	Ê®½øÖÆ-->¶ş½øÖÆ
+	åè¿›åˆ¶-->äºŒè¿›åˆ¶
 	*/
 	public static void toBin(int num)
 	{
@@ -19,14 +19,14 @@ class ArrayTest7
 	}
 
 	/*
-	Ê®½øÖÆ-->°Ë½øÖÆ
+	åè¿›åˆ¶-->å…«è¿›åˆ¶
 	*/
 	public static void toBa(int num)
 	{
 		trans(num,7,3);
 	}
 	/*
-	Ê®½øÖÆ-->Ê®Áù½øÖÆ
+	åè¿›åˆ¶-->åå…­è¿›åˆ¶
 	*/
 	public static void toHex(int num)
 	{

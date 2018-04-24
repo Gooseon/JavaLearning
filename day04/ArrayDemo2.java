@@ -17,9 +17,9 @@ class  ArrayDemo2
 		
 		arr = null;
 		System.out.println(arr[1]);
-		//ArrayIndexOutOfBoundsException: 3:��������ʱ�����ʵ��������в����ڵĽǱꡣ
+		//ArrayIndexOutOfBoundsException: 3:操作数组时，访问到了数组中不存在的角标。
 
-		//NullPointerException:��ָ���쳣��������û���κ�ָ��ֵΪnull������������û������ڲ���ʵ�塣
+		//NullPointerException:空指针异常：当引用没有任何指向值为null的情况，该引用还在用于操作实体。
 
 	}
 }

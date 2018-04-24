@@ -2,8 +2,8 @@
 import java.util.*;
 
 /*
-��hashSet�����д����Զ�����
-������������ͬΪͬһ���ˣ��ظ�Ԫ�ء�
+往hashSet集合中存入自定对象
+姓名和年龄相同为同一个人，重复元素。
 
 
 

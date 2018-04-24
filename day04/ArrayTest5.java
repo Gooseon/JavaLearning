@@ -7,7 +7,7 @@ class ArrayTest5
 	}
 	
 	/*
-	Ê®½øÖÆ-->Ê®Áù½øÖÆ¡£
+	åè¿›åˆ¶-->åå…­è¿›åˆ¶ã€‚
 	*/
 	public static void toHex(int num)
 	{
@@ -42,7 +42,7 @@ class ArrayTest5
 
 
 	/*
-	Ê®½øÖÆ-->¶þ½øÖÆ
+	åè¿›åˆ¶-->äºŒè¿›åˆ¶
 	*/
 	public static void toBin(int num)
 	{
